@@ -4,7 +4,7 @@ var f1 = function(){
 },f2 = function(){
 	return 20;
 },f3 = function(){
-	return 15;
+	return 20;
 }
 module.exports.object = {
 	func1:f1,
