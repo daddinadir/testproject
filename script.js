@@ -1,6 +1,6 @@
 
 var f1 = function(){
-	return 14;
+	return 20;
 },f2 = function(){
 	return 20;
 },f3 = function(){
